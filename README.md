@@ -1,1 +1,1 @@
-This is a poject for my Harvard CS50 Class
+This is a project for my Harvard CS50 Class
